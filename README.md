@@ -5,5 +5,5 @@ This tutorial uses the algorithm proposed by Gatys et al. on [A Neural Algorithm
 
 
 I based this tutorial on the following implementations:
-* [hwalsuklee's tensorflow-style-transfer](https://github.com/hwalsuklee/tensorflow-style-transfer)
-* [anishathalye's neural-style](https://github.com/anishathalye/neural-style)
+* hwalsuklee's [tensorflow-style-transfer](https://github.com/hwalsuklee/tensorflow-style-transfer)
+* anishathalye's [neural-style](https://github.com/anishathalye/neural-style)
